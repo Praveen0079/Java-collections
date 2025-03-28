@@ -11,7 +11,7 @@ public class QueueReverse {
         System.out.println("Original Queue: " + queue);
 
         reverseQueue(queue);
-
+ 
         System.out.println("Reversed Queue: " + queue);
     }
 
