@@ -7,7 +7,7 @@ public class MaxValueKeyFinder {
         Map<String, Integer> inputMap = new HashMap<>();
 
         // Adding key-value pairs to the map
-        inputMap.put("A", 10);
+        inputMap.put("A", 10); 
         inputMap.put("B", 20);
         inputMap.put("C", 15);
 
