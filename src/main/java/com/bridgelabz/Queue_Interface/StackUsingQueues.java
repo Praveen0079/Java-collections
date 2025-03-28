@@ -8,7 +8,7 @@ public class StackUsingQueues {
     private Queue<Integer> q2 = new LinkedList<>();
 
     public void push(int value) {
-        q1.add(value);
+        q1.add(value); 
     }
 
     public int pop() {
