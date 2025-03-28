@@ -7,7 +7,7 @@ public class InvertMap {
         Map<String, Integer> inputMap = new HashMap<>();
 
         // Adding key-value pairs to the input map
-        inputMap.put("A", 1);
+        inputMap.put("A", 1); 
         inputMap.put("B", 2);
         inputMap.put("C", 1);
 
