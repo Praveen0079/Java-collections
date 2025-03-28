@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 class CircularBuffer {
     private int[] buffer;
-    private int front, rear, size, capacity;
+    private int front, rear, size, capacity; 
 
     public CircularBuffer(int capacity) {
         this.capacity = capacity;
