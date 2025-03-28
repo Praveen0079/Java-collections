@@ -1,4 +1,4 @@
-package com.bridgelabz.listinterface;
+package com.bridgelabz.List_Interface;
 
 import java.util.ArrayList;
 import java.util.Scanner;
