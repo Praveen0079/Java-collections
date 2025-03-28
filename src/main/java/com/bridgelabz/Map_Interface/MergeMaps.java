@@ -5,7 +5,7 @@ import java.util.*;
 public class MergeMaps {
     public static void main(String[] args) {
         Map<String, Integer> map1 = new HashMap<>();
-        Map<String, Integer> map2 = new HashMap<>();
+        Map<String, Integer> map2 = new HashMap<>(); 
 
         // Adding key-value pairs to the first map
         map1.put("A", 1);
